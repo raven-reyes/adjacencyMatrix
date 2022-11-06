@@ -1,4 +1,4 @@
-
+// This representation makes use of VxV matrix, so space required in worst case is O(|V|2)
 public class AdjacencyMatrix {
 int n ; // number of vertices 
 // we give our adjacency matrix a rough size of 20 by 20.when we call the main method , the value of
